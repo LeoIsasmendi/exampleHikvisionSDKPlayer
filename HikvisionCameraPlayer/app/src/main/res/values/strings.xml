@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HikvisionCameraPlayer</string>
+    <string name="ip_address">IP Address</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="init_sdk_init_error">Error starting HCNetSDK</string>
+    <string name="ok">Ok</string>
+</resources>
