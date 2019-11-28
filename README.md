@@ -1,3 +1,7 @@
+![](https://github.com/LeoIsasmendi/exampleHikvisionSDKPlayer/workflows/Android%20CI/badge.svg)
+
+
+
 # Example HikvisionSDKPlayer
 
 This is an example of how to use HikvisionSDK in Android.
